@@ -18,7 +18,7 @@ Tech used :
           * Cloudinary (To host uploaded images on CDN)
           
           
- [Live Heroku Deployment](https://Twitter-Clone.hcont12.repl.co)
+ [Live ](https://Twitter-Clone.hcont12.repl.co)
  
  
 ## Screenshot
